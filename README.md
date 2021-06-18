@@ -23,5 +23,9 @@ I added a screenshot of the working generator, and also i included a litle video
 
 
 
- ### A Screenshot of my deployed personal portfolio:
-* ![ScreenShots]( https://github.com/Qabas-al-ani/personal-portfolio/blob/main/screen-shot/Qabas-Al-Ani.png  )   
+ ### A Screenshot of my deployed JavaScript Password generator:
+* ![ScreenShots]( https://github.com/Qabas-al-ani/Password-Generator-JavaScript/blob/main/screenshot/password-generat.png  )   
+
+
+### A demo of my JavaScript Password generator:
+[full demo video] ( https://drive.google.com/file/d/168G7v05fgTvW5iF5sjtnwcpi2dBFmxJb/view?usp=sharing )
