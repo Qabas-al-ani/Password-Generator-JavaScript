@@ -28,4 +28,4 @@ I added a screenshot of the working generator, and also i included a litle video
 
 
 ### A demo of my JavaScript Password generator:
-[full demo video] ( https://drive.google.com/file/d/168G7v05fgTvW5iF5sjtnwcpi2dBFmxJb/view?usp=sharing )
+[full demo video]( https://drive.google.com/file/d/168G7v05fgTvW5iF5sjtnwcpi2dBFmxJb/view?usp=sharing )
